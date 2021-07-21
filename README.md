@@ -34,7 +34,7 @@ git config --global user.password "********"
 
 git config –list – проверка актуальных настроек сервера
 
-git config --global http.proxy http://<login>:<password>@<proxyadress>:<port> – конфигурирование прокси сервера
+git config --global http.proxy http://**login**:**password**@**proxyadress**:**port** – конфигурирование прокси сервера
 
 q – выйти из git config –list
 
