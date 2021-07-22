@@ -17,7 +17,7 @@
 добавляем проверки, которые создавали методами в main_page.py
 
 
-## Полезные команды для настройки GIT
+## Шпаргалки, учебные материалы, полезные команды для настройки Git
 
 git config –list  список конфигураций
 
@@ -48,7 +48,22 @@ git commit –m “сообщение которое отправишь при �
 git push origin main – закинуть изменения
 
 git rm <filename> - удалить определенный файл
+
+[Gitflow](https://bitworks.software/2019-03-12-gitflow-workflow.html)
+
+[Ветвление в Git](https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%85)
+
+[Цикл разработки через Github](https://habr.com/ru/post/192614/)
+
+[Руководство по Git](https://proglib.io/p/git-for-half-an-hour)
+
+[Шпаргалка по Git](http://rogerdudler.github.io/git-guide/index.ru.html)
  
+[Курс обучения по Git](https://githowto.com/ru/setup)
+
+[Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU)
+
+
 
 ## Полезные ссылки на xpath и CSS-селекторы
 
@@ -68,4 +83,7 @@ git rm <filename> - удалить определенный файл
 
 [Тренажер по CSS-селекторам](https://flukeout.github.io/)
 
-[find element by](https://selenium-python.com/locating-web-elements)
+[Список методов find element by](https://selenium-python.com/locating-web-elements)
+
+
+
