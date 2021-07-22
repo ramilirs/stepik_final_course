@@ -52,18 +52,18 @@ git rm <filename> - удалить определенный файл
 
 ## Полезные ссылки на xpath и CSS-селекторы
 
-[Шпаргалка по Xpath] (https://devhints.io/xpath)
+[Шпаргалка по Xpath](https://devhints.io/xpath)
 
-[Псевдоклассы в CSS] (https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes)
+[Псевдоклассы в CSS](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes)
 
-[1. CSS-селекторы] (https://learn.javascript.ru/css-selectors)
+[1. CSS-селекторы](https://learn.javascript.ru/css-selectors)
 
-[2. CSS-селекторы] (https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)
+[2. CSS-селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)
 
-[3. CSS-селекторы] (https://www.w3schools.com/css/css_selectors.asp)
+[3. CSS-селекторы](https://www.w3schools.com/css/css_selectors.asp)
 
-[4. CSS-селекторы] (https://puzzleweb.ru/css/selectors.php)
+[4. CSS-селекторы](https://puzzleweb.ru/css/selectors.php)
 
-[Тренажер по Xpath] (https://topswagcode.com/xpath/)
+[Тренажер по Xpath](https://topswagcode.com/xpath/)
 
-[Тренажер по CSS-селекторам] (https://flukeout.github.io/)
+[Тренажер по CSS-селекторам](https://flukeout.github.io/)
